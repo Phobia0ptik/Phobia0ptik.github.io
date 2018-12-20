@@ -15,6 +15,9 @@ During the rise of HQ trivia people started to create applications which would a
 
 ## Data: 
 
+I was able to collect data into the following tables:
+
+
 
 
 # Analysis 
