@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Data Science Lab
+name: David Milmont's Portfolio
 
 # Short bio or description (displayed in the header)
 description: Data is the new oil.
@@ -18,7 +18,7 @@ avatar: https://avatars2.githubusercontent.com/u/14106902?v=3&s=200
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: davidmilmont@gmail.com 
   facebook:
   flickr:
   github: data-science-lab/data-science-lab.github.io
